@@ -1,0 +1,22 @@
+{
+  "name": "mbc-model",
+  "version": "0.0.1",
+  "description": "Models of MBC",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshaymantriwar/mbc-model.git"
+  },
+  "keywords": [
+    "model"
+  ],
+  "author": "Akshaykumar Prakash Mantriwar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshaymantriwar/mbc-model/issues"
+  },
+  "homepage": "https://github.com/akshaymantriwar/mbc-model#readme"
+}
